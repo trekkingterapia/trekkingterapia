@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fundación Trekking Terapia</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="logo">TREKKING TERAPIA</div>
+
+    <nav>
+      <a href="#">Nuestra Historia</a>
+      <a href="#">Experiencias</a>
+      <a href="#">Proyectos</a>
+      <a href="#">Comunidad</a>
+      <a href="#">Súmate</a>
+      <a class="btn-menu" href="#">Martes de Trekking</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <h1>Hay caminos que cambian la vida.</h1>
+        <p>
+          Todo comenzó caminando. Con el tiempo descubrimos que la naturaleza
+          no solo nos hacía avanzar por un sendero. También nos ayudaba a
+          detenernos, respirar y volver a encontrarnos con nosotros mismos.
+        </p>
+        <a href="#" class="btn-primary">Conoce nuestra historia →</a>
+      </div>
+    </section>
+  </main>
+
+</body>
+</html>
